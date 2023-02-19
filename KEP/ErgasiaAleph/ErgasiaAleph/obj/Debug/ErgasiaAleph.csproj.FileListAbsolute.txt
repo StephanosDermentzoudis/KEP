@@ -1,0 +1,11 @@
+C:\Users\30694\OneDrive\Υπολογιστής\Alephs\ErgasiaAleph\ErgasiaAleph\obj\Debug\ErgasiaAleph.csproj.AssemblyReference.cache
+C:\Users\30694\OneDrive\Υπολογιστής\Alephs\ErgasiaAleph\ErgasiaAleph\obj\Debug\ErgasiaAleph.csproj.SuggestedBindingRedirects.cache
+C:\Users\30694\OneDrive\Υπολογιστής\Alephs\ErgasiaAleph\ErgasiaAleph\obj\Debug\ErgasiaAleph.Properties.Resources.resources
+C:\Users\30694\OneDrive\Υπολογιστής\Alephs\ErgasiaAleph\ErgasiaAleph\obj\Debug\ErgasiaAleph.csproj.GenerateResource.cache
+C:\Users\30694\OneDrive\Υπολογιστής\Alephs\ErgasiaAleph\ErgasiaAleph\obj\Debug\ErgasiaAleph.csproj.CoreCompileInputs.cache
+C:\Users\30694\OneDrive\Υπολογιστής\Alephs\ErgasiaAleph\ErgasiaAleph\bin\Debug\ErgasiaAleph.exe.config
+C:\Users\30694\OneDrive\Υπολογιστής\Alephs\ErgasiaAleph\ErgasiaAleph\bin\Debug\ErgasiaAleph.exe
+C:\Users\30694\OneDrive\Υπολογιστής\Alephs\ErgasiaAleph\ErgasiaAleph\bin\Debug\ErgasiaAleph.pdb
+C:\Users\30694\OneDrive\Υπολογιστής\Alephs\ErgasiaAleph\ErgasiaAleph\obj\Debug\ErgasiaAleph.Form.resources
+C:\Users\30694\OneDrive\Υπολογιστής\Alephs\ErgasiaAleph\ErgasiaAleph\obj\Debug\ErgasiaAleph.exe
+C:\Users\30694\OneDrive\Υπολογιστής\Alephs\ErgasiaAleph\ErgasiaAleph\obj\Debug\ErgasiaAleph.pdb
